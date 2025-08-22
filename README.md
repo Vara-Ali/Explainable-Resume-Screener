@@ -16,8 +16,9 @@ Built with **FastAPI (Python)** for the backend and **React (JavaScript)** for t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Backend:** FastAPI, HuggingFace Transformers, SentenceTransformers, Python
 - **Frontend:** React, Material UI
 - **Others:** REST APIs, Node.js, Git
+
 
